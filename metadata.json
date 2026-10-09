@@ -1,0 +1,6 @@
+{
+  "name": "Prasad Salgaonkar - LIC & Vehicle Insurance Advisory",
+  "description": "Official insurance portal for Agent Prasad Salgaonkar. Explore all LIC life insurance and motor vehicle insurance plans, calculate quotes, and submit inquiries directly via WhatsApp (+91 8550927882).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
